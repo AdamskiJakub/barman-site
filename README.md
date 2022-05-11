@@ -7,7 +7,7 @@ git pull - pobrac z repo od chlopa
 
 git status - status
 
-git config --list - wyskoczylo w chuj rzeczy (ogólne info) config aby dodac username i email
+git config --list - wyskoczylo duzo rzeczy (ogólne info) config aby dodac username i email
 
 git commit -m "co zmienilem" i ta komenda jest uzywana po git add
 
