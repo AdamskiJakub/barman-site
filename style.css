@@ -23,7 +23,9 @@ time, mark, audio, video {
 	font: inherit;
 	vertical-align: baseline;
 }
+
 /* HTML5 display-role reset for older browsers */
+
 article, aside, details, figcaption, figure, 
 footer, header, hgroup, menu, nav, section {
 	display: block;
@@ -48,6 +50,7 @@ table {
 }
 
 /* Globalne style tekstu */
+
 body {
 	font-family: Arial, Helvetica, sans-serif;
 	color: #7F8C8D;
@@ -173,6 +176,7 @@ section {
 
 
 /* Banner */
+
 .banner {
 	color: #FFFFFF;
 	background: #000000;
@@ -211,6 +215,7 @@ section {
 	color: #EEEEEE;
 }
 /* Sekcja Kontakt */
+
 .contact input {
 	margin-bottom: 16px;
 	border-radius: 2px;
